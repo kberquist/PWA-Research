@@ -1,0 +1,11 @@
+<publishData>
+    <publishProfile profileName="kb-pwa - Web Deploy" publishMethod="MSDeploy" publishUrl="kb-pwa.scm.azurewebsites.net:443" msdeploySite="kb-pwa" userName="$kb-pwa" userPWD="fE8TqcALZkpljkHm1aGcalggkhZ6S5f7npq4nK7gF3xHP4zy2k1SsY9e8oja" destinationAppUrl="http://kb-pwa.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+    <publishProfile profileName="kb-pwa - FTP" publishMethod="FTP" publishUrl="ftp://waws-prod-bay-015.ftp.azurewebsites.windows.net/site/wwwroot" ftpPassiveMode="True" userName="kb-pwa\$kb-pwa" userPWD="fE8TqcALZkpljkHm1aGcalggkhZ6S5f7npq4nK7gF3xHP4zy2k1SsY9e8oja" destinationAppUrl="http://kb-pwa.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+    <publishProfile profileName="kb-pwa - ReadOnly - FTP" publishMethod="FTP" publishUrl="ftp://waws-prod-bay-015dr.ftp.azurewebsites.windows.net/site/wwwroot" ftpPassiveMode="True" userName="kb-pwa\$kb-pwa" userPWD="fE8TqcALZkpljkHm1aGcalggkhZ6S5f7npq4nK7gF3xHP4zy2k1SsY9e8oja" destinationAppUrl="http://kb-pwa.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+</publishData>
